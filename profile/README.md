@@ -1,8 +1,7 @@
 
 <div align="center"> 
 
-
-<img src="https://user-images.githubusercontent.com/117211251/204109551-21f72b83-a4fc-4e7b-a05e-9a99a2b985ea.png" width="200" height="200" />
+![FastShardBanner](https://user-images.githubusercontent.com/117211251/204109884-0c45d9af-284c-495f-8c8e-cb088cdab153.png)
 
 </div>
 
