@@ -7,6 +7,6 @@
 <a href="#">Documentation</a> |
 <a href="https://github.com/FastShard/Shardic">Installer</a> |
 <a href="https://github.com/FastShard/Themes">Themes</a> |
-<a href="">Website</a> 
+<a href="#">Website</a> 
 
 </div>
