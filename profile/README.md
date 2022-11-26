@@ -1,4 +1,11 @@
-![](https://raw.githubusercontent.com/FastShard/Assets/main/FastShardBanner.jpg)
+
+<div align="center"> 
+
+
+<img src="https://user-images.githubusercontent.com/117211251/204109551-21f72b83-a4fc-4e7b-a05e-9a99a2b985ea.png" width="200" height="200" />
+
+</div>
+
 #
 
 <div align="center"> 
